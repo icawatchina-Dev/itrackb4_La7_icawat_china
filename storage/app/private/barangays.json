@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "San Isidro Village",
+        "municipality": "Virac",
+        "population": 1250
+    },
+    {
+        "id": 2,
+        "name": "Calatagan",
+        "municipality": "Virac",
+        "population": 4200
+    },
+    {
+        "id": 3,
+        "name": "Cavinitan",
+        "municipality": "Virac",
+        "population": 3959
+    },
+    {
+        "id": 4,
+        "name": "San Andres Proper",
+        "municipality": "San Andres",
+        "population": 2000
+    },
+    {
+        "id": 5,
+        "name": "Codon",
+        "municipality": "San Andres",
+        "population": 1881
+    },
+    {
+        "id": 6,
+        "name": "Sabangan",
+        "municipality": "Bagamanoc",
+        "population": 1500
+    }
+]
